@@ -5,6 +5,7 @@ The aim of This project is that it can detect COVID using deep learning. It make
 ## Feature 
 ![image](https://github.com/Bamit-2021/COVID-19_Grade_Analysis_Using_CNN_Features/assets/77608956/c2125e77-2ec3-43c6-a89b-82db5835b8a6)
 
+![image](https://github.com/Bamit-2021/COVID-19_Grade_Analysis_Using_CNN_Features/assets/77608956/3ff1de64-2b0b-4cc4-958d-56ca9c5c26af)
 
 
 
